@@ -83,5 +83,8 @@
     <bool name="config_enableAutoPowerModes">false</bool>
     
     <bool name="config_disableUsbPermissionDialogs">true</bool>
+    
+    <!-- Whether safe headphone volume is enabled or not (country specific). -->
+    <bool name="config_safe_media_volume_enabled">false</bool>
 
 </resources>
